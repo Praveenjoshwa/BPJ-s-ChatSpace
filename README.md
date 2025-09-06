@@ -1,8 +1,8 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](frontend/public/Screenshot from 2025-09-06 20-09-59.png)
+![Demo App](frontend/public/Screenshot-for-readme.png)
 
-![Live Demo](https://bpj-s-chatspace.onrender.com)
+![Live Demo:Click Here](https://bpj-s-chatspace.onrender.com)
 
 Highlights:
 
